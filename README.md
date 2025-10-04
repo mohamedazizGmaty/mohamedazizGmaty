@@ -15,7 +15,7 @@
 
 ---
 
-### [📄 Check My CV](#) <!-- Replace with your CV link -->
+### [📄 Check My CV](https://github.com/azizgmaty/portfolio/raw/main/Aziz_Gmaty_CV.pdf)
 
 ### [🌐 View My Portfolio](#) <!-- Replace with your Portfolio link -->
 
@@ -26,7 +26,7 @@
   <a href="azizgmaty@gmail.com"> <!-- Gmail -->
     <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/aziz-gmaty](https://www.linkedin.com/in/mohamed-aziz-gmaty/"> <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohamed-aziz-gmaty/"> <!-- LinkedIn -->
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
   </a>&nbsp;
   <a href="https://wa.me/21690773051"> <!-- WhatsApp -->
