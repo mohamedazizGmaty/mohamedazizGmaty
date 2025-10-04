@@ -15,7 +15,7 @@
 
 ---
 
-### [📄 Check My CV](https://github.com/azizgmaty/portfolio/raw/main/Aziz_Gmaty_CV.pdf)
+### [📄 Check My CV](https://github.com/mohamedazizGmaty/mohamedazizGmaty/raw/main/Mohamed%20Aziz%20Gmaty.pdf)
 
 ### [🌐 View My Portfolio](#) <!-- Replace with your Portfolio link -->
 
