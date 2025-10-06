@@ -46,6 +46,14 @@
 
 ### `🚀 Featured Projects`
 
+#### 🔹 **DevOps Azure Pipeline – Cloud Automation Project**
+- Designed and automated a complete CI/CD pipeline for a web application using **Jenkins**, **Docker**, and **Kubernetes (K3s)**.  
+- Provisioned scalable cloud infrastructure on **Microsoft Azure** with **Terraform**, integrating **ArgoCD** for GitOps-based continuous deployment.  
+- Implemented end-to-end monitoring with **Prometheus** and **Grafana**, visualizing key application and cluster metrics.  
+- **Tech Stack:** Azure · Terraform · Jenkins · Docker · K3s · ArgoCD · Prometheus · Grafana · MinIO  
+- [🔗 Repository]([https://github.com/AssilBelhouen/mon-devops-azure](https://github.com/mohamedazizGmaty/-DevOps-CI-CD-azure-project))
+
+
 #### 🔹 **Gamax – Game as a Service Platform**
 - Developed a cloud-native gaming platform offering subscriptions, marketplace, and support system.  
 - Built with **.NET Core, Angular, SQL Server, Docker, Azure**.  
