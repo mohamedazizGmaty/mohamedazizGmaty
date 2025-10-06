@@ -17,7 +17,7 @@
 
 ### [📄 Check My CV](https://github.com/mohamedazizGmaty/mohamedazizGmaty/raw/main/Mohamed%20Aziz%20Gmaty.pdf)
 
-<!--### [🌐 View My Portfolio](#) <!-- Replace with your Portfolio link -->-->
+<!--### [🌐 View My Portfolio](#) <!-- Replace with your Portfolio link -->
 
 ---
 
