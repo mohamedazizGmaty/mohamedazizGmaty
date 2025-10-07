@@ -51,7 +51,7 @@
 - Provisioned scalable cloud infrastructure on **Microsoft Azure** with **Terraform**, integrating **ArgoCD** for GitOps-based continuous deployment.  
 - Implemented end-to-end monitoring with **Prometheus** and **Grafana**, visualizing key application and cluster metrics.  
 - **Tech Stack:** Azure · Terraform · Jenkins · Docker · K3s · ArgoCD · Prometheus · Grafana · MinIO  
-- [🔗 Repository]((https://github.com/mohamedazizGmaty/-DevOps-CI-CD-azure-project))
+- [🔗 Repository](https://github.com/mohamedazizGmaty/-DevOps-CI-CD-azure-project)
 
 
 #### 🔹 **Gamax – Game as a Service Platform**
