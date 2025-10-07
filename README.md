@@ -68,14 +68,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=azizgmaty&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
----
 
-### `🔥 GitHub Streak & Stats:`
+---
+### 🔥 GitHub Streak & Stats:
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=azizgmaty&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Streak -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azizgmaty&layout=compact&langs_count=6&theme=highcontrast" height="125"/> <!-- Languages -->
 </p>
-
 ---
 
 <p align="left">
