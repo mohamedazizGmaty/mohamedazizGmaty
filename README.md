@@ -37,6 +37,18 @@
 
 ---
 
+
+
+## 🌍 About Me
+- 🇹🇳 Based in Tunisia  
+- 💻 Passionate about **Cloud Infrastructure, Automation, and DevSecOps**  
+- 🚀 Building projects with **Kubernetes**, **Terraform**, **Azure**, and **CI/CD pipelines**  
+- 🎯 Currently learning: **Advanced Kubernetes**, **Service Mesh (Istio)**, **GitOps (ArgoCD)**  
+- 🤝 Open to collaborations in **Cloud Projects**, **Infrastructure Automation**, and **AI + DevOps integration**
+
+---
+
+
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,docker,kubernetes,terraform,githubactions,git,linux,cs,java,dotnet,spring,sqlserver,postgresql,redis,html,css,js,python" alt="Skills"/>
@@ -66,6 +78,14 @@
 </p>
 
 ---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azizgmaty&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
 
 ### 🔥 GitHub Streak & Stats
 <p align="left">
