@@ -79,14 +79,6 @@
 
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azizgmaty&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-
 ### 🔥 GitHub Streak & Stats
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=azizgmaty&theme=highcontrast" height="150" alt="GitHub Streak"/> &nbsp;
