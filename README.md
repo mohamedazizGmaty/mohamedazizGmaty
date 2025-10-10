@@ -4,79 +4,77 @@
 <br>
 
 <p align="center">
-  <a href="https://www.google.com/search?q=Mohamed+Aziz+Gmaty+Cloud+DevOps"> <!-- Google Me -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+DevOps+Engineer;Passionate+about+Automation+%26+AI;Exploring+Azure+%7C+AWS+%7C+Terraform;Always+Learning+New+Technologies&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  <a href="https://www.google.com/search?q=Mohamed+Aziz+Gmaty+Cloud+DevOps">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+DevOps+Engineer;Passionate+about+Automation+%26+AI;Exploring+Azure+%7C+AWS+%7C+Terraform;Always+Learning+New+Technologies&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=azizgmaty&style=flat&color=4010B0"/> <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=azizgmaty&style=flat&color=4010B0" alt="Profile Views"/>
 </p>
 
 ---
 
-### [📄 Check My CV](https://github.com/mohamedazizGmaty/mohamedazizGmaty/raw/main/Mohamed%20Aziz%20Gmaty.pdf)
+### 📄 [Check My CV](https://github.com/mohamedazizGmaty/mohamedazizGmaty/raw/main/Mohamed%20Aziz%20Gmaty.pdf)
 
-<!--### [🌐 View My Portfolio](#) <!-- Replace with your Portfolio link -->
+<!-- 🌐 Uncomment below if you add your portfolio link -->
+<!-- ### [🌐 View My Portfolio](https://your-portfolio-link.com) -->
 
 ---
 
-### `📤 Contact & Social:`
+### 📤 Contact & Social
 <p align="left">
-  <a href="azizgmaty@gmail.com"> <!-- Gmail -->
-    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+  <a href="mailto:azizgmaty@gmail.com">
+    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35" alt="Gmail"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-aziz-gmaty/"> <!-- LinkedIn -->
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+  <a href="https://www.linkedin.com/in/mohamed-aziz-gmaty/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="https://wa.me/21690773051"> <!-- WhatsApp -->
-    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
-  </a>&nbsp;
+  <a href="https://wa.me/21690773051">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="45" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
 
-### `🛠️ Languages & Tools:`
-
+### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,docker,kubernetes,terraform,githubactions,git,linux,cs,java,dotnet,spring,sqlserver,postgresql,redis,html,css,js,python"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,docker,kubernetes,terraform,githubactions,git,linux,cs,java,dotnet,spring,sqlserver,postgresql,redis,html,css,js,python" alt="Skills"/>
 </p>
 
 ---
 
-### `🚀 Featured Projects`
+### 🚀 Featured Projects
 
 #### 🔹 **DevOps Azure Pipeline – Cloud Automation Project**
-- Designed and automated a complete CI/CD pipeline for a web application using **Jenkins**, **Docker**, and **Kubernetes (K3s)**.  
-- Provisioned scalable cloud infrastructure on **Microsoft Azure** with **Terraform**, integrating **ArgoCD** for GitOps-based continuous deployment.  
-- Implemented end-to-end monitoring with **Prometheus** and **Grafana**, visualizing key application and cluster metrics.  
+- Designed and automated a complete CI/CD pipeline for a web app using **Jenkins**, **Docker**, and **Kubernetes (K3s)**.  
+- Provisioned scalable infrastructure on **Azure** with **Terraform**, integrating **ArgoCD** for GitOps-based deployment.  
+- Implemented end-to-end monitoring with **Prometheus** and **Grafana**, visualizing key metrics.  
 - **Tech Stack:** Azure · Terraform · Jenkins · Docker · K3s · ArgoCD · Prometheus · Grafana · MinIO  
 - [🔗 Repository](https://github.com/mohamedazizGmaty/-DevOps-CI-CD-azure-project)
 
-
 #### 🔹 **Gamax – Game as a Service Platform**
 - Developed a cloud-native gaming platform offering subscriptions, marketplace, and support system.  
-- Built with **.NET Core, Angular, SQL Server, Docker, Azure**.  
-- [🔗 Repository](#) | [🌐 Demo](https://www.linkedin.com/feed/update/urn:li:activity:7330025947544367104/)
-
+- Built with **.NET Core**, **Angular**, **SQL Server**, **Docker**, **Azure**.  
+- [🌐 Demo](https://www.linkedin.com/feed/update/urn:li:activity:7330025947544367104/)
 
 ---
 
-### `🏆 GitHub Trophies:`
+### 🏆 GitHub Trophies
 <p align="left">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=azizgmaty&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=azizgmaty&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
-
 ---
-### 🔥 GitHub Streak & Stats:
+
+### 🔥 GitHub Streak & Stats
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=azizgmaty&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Streak -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azizgmaty&layout=compact&langs_count=6&theme=highcontrast" height="125"/> <!-- Languages -->
+  <img src="https://streak-stats.demolab.com/?user=azizgmaty&theme=highcontrast" height="150" alt="GitHub Streak"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azizgmaty&layout=compact&langs_count=6&theme=highcontrast" height="150" alt="Top Languages"/>
 </p>
+
 ---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
 </p>
